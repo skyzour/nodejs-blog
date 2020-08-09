@@ -1,0 +1,9 @@
+{
+    "title": "博客管理系统",
+    "db": {
+        "user": "skyzou",
+        "host": "localhost",
+        "port": "27017",
+        "name": "blog"
+    }
+}
